@@ -1,4 +1,4 @@
-# Prompt 21 — Typed Frontend API Client
+# Typed Frontend API Client
 
 This README explains, step by step, what was done to fulfill the latest prompt:
 
